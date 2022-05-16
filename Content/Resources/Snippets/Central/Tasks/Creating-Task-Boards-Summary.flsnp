@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Before creating any tasks, you must first have a task board to hold the tasks. <span class="topic-only">In Central, you can create multiple task boards. This lets you organize tasks according to projects or certain time periods (e.g., product releases). You can also tie Central task boards to Jira boards</span><MadCap:conditionalText MadCap:conditions="General.Online-Only"><span class="topic-only"> (see </span><MadCap:xref href="../../../../Future/Whats-New-Jira.htm" class="topic-only">Jira Integration</MadCap:xref><span class="topic-only">)</span></MadCap:conditionalText><span class="topic-only">.</span></p>
+    </body>
+</html>

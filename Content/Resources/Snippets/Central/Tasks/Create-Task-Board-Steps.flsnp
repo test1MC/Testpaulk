@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="Open-Tasks-Page1.flsnp" />
+            </li>
+            <li>In the toolbar click <img src="../../../Images/Central/Interface/Buttons/Add-btn1.png" alt="" title="" class="ReduceButtonSize" />.</li>
+            <li>
+                <p>With the <span class="Emphasis">Details</span> tab selected, enter a title for the task board. You can also assign the board to a particular user and provide a description.</p>
+                <p class="topic-only">
+                    <img src="../../../Images/Central/Tasks/Task-Board1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <p>(Optional) If you are a Jira user and want to tie the new task board to your Jira account, you must first set up the connection in the License Settings dialog<MadCap:conditionalText MadCap:conditions="General.Online-Only"> (see <MadCap:xref href="../../../../Future/Jira-Integration.htm">Jira Integration</MadCap:xref>)</MadCap:conditionalText>. If this is already done, you can select the <span class="Emphasis">Jira</span> tab and make a selection from the <span class="Emphasis">Jira Project</span> drop-down. You can tell Central to generate a new Jira board (recommended) or you can select an existing Jira board.</p>
+                <p>You can also enable <span class="Emphasis">Synchronize Jira</span>. <span class="topic-only">If you select this option, tasks are automatically pushed every 15 minutes from Central to Jira.</span></p>
+                <p class="topic-only">
+                    <img src="../../../Images/Central/Tasks/Task-Board2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <p>Click <span class="Emphasis">Save</span>. <span class="topic-only">The new board is added to the grid, which can show multiple columns of information about the board, including the number of tasks and whether it is connected to a Jira board.</span></p>
+                <p class="topic-only">
+                    <img src="../../../Images/Central/Tasks/Task-Board3.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+        </ol>
+    </body>
+</html>
